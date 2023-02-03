@@ -11,6 +11,7 @@ Detailed information can be found there:
 My contacts:
 * Email: max.buligin@gmail.com
 * Telegram: [@BulyginMaksim](https://t.me/BulyginMaksim)
+* LinkedIn: [bulyginmaksim](https://linkedin.com/in/bulyginmaksim)
 
 Additional information:
 * My academic achievements can be found [there](https://github.com/BulyginMaksim/BulyginMaksim/blob/main/academic_achievements)
